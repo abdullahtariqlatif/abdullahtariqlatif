@@ -120,3 +120,7 @@ across healthcare, legal tech, logistics, e-commerce, and media.
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=abdullahtariqlatif&theme=darkhub&no-frame=true&column=-1" alt="trophy">
  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahtariqlatif&style=flat" alt="Visitor Count" />
+</p>
