@@ -74,7 +74,7 @@ across healthcare, legal tech, logistics, e-commerce, and media.
 
 ## 📊 GitHub Stats
 
-<sub>Stats and Languages below only see public repos (third-party widgets, no private-repo access) - see Combined Account Activity below for the accurate commit/streak figures across both accounts.</sub>
+<sub>Stats and Languages below only see public repos (third-party widgets, no private-repo access) - see the Activity badges below for accurate commit/streak figures.</sub>
 
 |Stats|Languages|
 |---|---|
@@ -119,9 +119,4 @@ across healthcare, legal tech, logistics, e-commerce, and media.
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=abdullahtariqlatif&theme=darkhub&no-frame=true&column=-1" alt="trophy">
  </a>
-</p>
-
-<p align="center">
-  Views<br>
-  <img src="https://komarev.com/ghpvc/?username=abdullahtariqlatif&style=flat" alt="Visitor Count" />
 </p>

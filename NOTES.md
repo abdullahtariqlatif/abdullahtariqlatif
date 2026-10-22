@@ -42,16 +42,6 @@ contributions on my profile."**
 That's an account setting, not something the README's code can control - nothing to push for
 this part, just toggle it once.
 
-## What's deliberately left out of v1
-
-Shoaib19's original template also had an animated snake game (eats your contribution squares),
-an isometric 3D contribution view, and a `github-metrics.svg`. All three need a scheduled GitHub
-Action in this repo to generate and commit an image file back to an `output` branch - more
-moving parts (workflow permissions, sometimes a PAT secret) than the zero-setup embed APIs used
-above. Skipped for now to keep the first push simple and reliable. Say the word if you want one
-added later - the typing header, stats cards, trophy, and visitor counter above all needed zero
-repo configuration and will keep working as-is.
-
 ## Activity badges
 
 The Contributions/Commits/Current Streak/Longest Streak badges under "⚡ Activity" are pushed
