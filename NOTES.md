@@ -1,5 +1,12 @@
 # Setup Notes
 
+**If you're a different/new AI session reading this cold:** this repo is one of three - see
+`00-AI-HANDOFF.md` in the Career Archive repo (remote:
+`git@abdullahtariqlatif:abdullahtariqlatif/Abdullah-Tariq-s-Career-Archive.git`) for the full
+picture before making any changes here. That file explains an important privacy rule about the
+"⚡ Activity" section below, specifically what must never be written in this repo (this repo is
+public - that file isn't).
+
 This folder is its own git repo, separate from the Career Archive. Built 22nd-October-2026,
 based on `https://github.com/Shoaib19/Shoaib19`'s README structure as a starting template, then
 rewritten with your real info (pulled from `identity.md`, `skills.md`, and `general-summary.md`
