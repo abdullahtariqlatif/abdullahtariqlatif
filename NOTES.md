@@ -14,8 +14,13 @@ push to it.
 
 ## Push it
 
+**Already done** - this repo was pushed and is live; moved 31st-October-2026 to
+`/home/abdullahtariq/ACoreFolders/MainFolders/site/main_work/programming/my_projects/
+mixed_projects/github-profile-readme/`. Steps below are the original one-time setup, kept for
+history.
+
 ```bash
-cd "/home/abdullahtariq/ACoreFolders/MainFolders/site/Other Files/github-profile-readme"
+cd "/home/abdullahtariq/ACoreFolders/MainFolders/site/main_work/programming/my_projects/mixed_projects/github-profile-readme"
 git init
 git add README.md NOTES.md
 git commit -m "Add GitHub profile README"
